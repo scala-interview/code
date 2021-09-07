@@ -12,7 +12,7 @@ package scalainterview.code.dict
   */
 trait Word {
   //This should have a sensible representation
-  override def toString: String
+  def toString: String
 }
 
 trait Predicate {

@@ -13,7 +13,7 @@ object Chess {
 
 trait Chess {
   /**
-   * Given a chess board of the given dimensions and the given number of pieces, return the number of
+   * For a chess board of the given dimensions and the given number of pieces, return the number of
    * unique board layouts that may be constructed such that no piece is threatened by any other piece.
    *
    * For example for a 2x3 board with two Kings there are four valid combinations as follows:
