@@ -1,5 +1,4 @@
-package com.baml.gmrt.elt.sse.interview.dict
-
+package scalainterview.code.dict
 
 /**
   * Task:

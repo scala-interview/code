@@ -1,4 +1,4 @@
-package com.bofa.sseinterview.fibonacci
+package scalainterview.code.fibonacci
 
 trait Fibonacci {
 

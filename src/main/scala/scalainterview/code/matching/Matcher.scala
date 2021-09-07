@@ -1,6 +1,6 @@
-package com.baml.gmrt.elt.sse.interview.matching
+package scalainterview.code.matching
 
-import com.baml.gmrt.elt.sse.interview.matching.Matcher.{MatchOutput, Trade}
+import Matcher.{MatchOutput, Trade}
 
 object Matcher {
 

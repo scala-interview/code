@@ -1,4 +1,4 @@
-package com.bofa.sseinterview.calculator
+package scalainterview.code.calculator
 
 trait Calculator {
 

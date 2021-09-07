@@ -1,4 +1,4 @@
-package com.bofa.sseinterview.compress
+package scalainterview.code.compress
 
 trait Compress {
 

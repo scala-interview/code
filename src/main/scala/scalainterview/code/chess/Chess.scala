@@ -1,6 +1,6 @@
-package com.baml.gmrt.elt.sse.interview.chess
+package scalainterview.code.chess
 
-import com.baml.gmrt.elt.sse.interview.chess.Chess.MajorPiece
+import Chess.MajorPiece
 
 object Chess {
   sealed trait MajorPiece

@@ -1,4 +1,4 @@
-package com.bofa.sseinterview.pascal
+package scalainterview.code.pascal
 
 trait Pascal {
 

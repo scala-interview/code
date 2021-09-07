@@ -1,4 +1,4 @@
-package com.bofa.sseinterview.futures
+package scalainterview.code.futures
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._

@@ -1,4 +1,4 @@
-package com.baml.gmrt.elt.sse.interview.divider
+package scalainterview.code.divider
 
 /**
   * Given Int n, divide the integers from 1 to 100 into 2 groups - those that are divisible by n and those that are not
